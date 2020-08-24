@@ -1,0 +1,7 @@
+ {
+	--variablename: default;
+}
+
+.colorcolor {
+	color: var(--variablename);
+}
