@@ -1,0 +1,1 @@
+{"version":3,"sources":["colorchange.css"],"names":[],"mappings":"AAIA,YACC,yBACD","file":"main.bd2c64de.chunk.css","sourcesContent":[" {\r\n\t--variablename: default;\r\n}\r\n\r\n.colorcolor {\r\n\tcolor: var(--variablename);\r\n}\r\n"]}
